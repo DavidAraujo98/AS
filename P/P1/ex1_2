@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T12:17:02.175Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="F0x9GE8JJhm-DWSrt8RN" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T12:17:27.727Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="f9pv5UEMx1d1ePOwSWCC" version="17.0.0" type="github">
   <diagram id="enNiBLfIJg5sqgtFrb1T" name="Page-1">
-    <mxGraphModel dx="616" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
           <mxGeometry x="64" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="flkErL7YkCr-jG7O8vwP-94" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="flkErL7YkCr-jG7O8vwP-77">
-          <mxGeometry x="120" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="flkErL7YkCr-jG7O8vwP-97" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#FF0000;fillColor=#FFF2CC;" vertex="1" parent="flkErL7YkCr-jG7O8vwP-77">
           <mxGeometry x="200" y="125" width="30" height="30" as="geometry" />
