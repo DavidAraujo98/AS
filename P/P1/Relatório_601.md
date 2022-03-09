@@ -4,8 +4,8 @@
 
 |   Members                     | Mecanografic Number  | Coordenador   |
 |   :-                          |   :-:                | :-:           |
-| David José Araújo Ferreira | 93444 | x |
-| Samuel ... Teixeira |  |  |
+| David Ferreira | 93444 | x |
+| Samuel Teixeira | 103325 |  |
 |  |  |  |
 |  |  |  |
 
