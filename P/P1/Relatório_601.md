@@ -1,6 +1,13 @@
-# Lab 1: Process Modulation
+# Lab 1 - Process Modulation
 
-### *Grupo 601*
+## Group - **601**
+
+|   Members                     | Mecanografic Number  | Coordenador   |
+|   :-                          |   :-:                | :-:           |
+| David José Araújo Ferreira | 93444 | x |
+| Samuel ... Teixeira |  |  |
+|  |  |  |
+|  |  |  |
 
 ## Exercise 1.1
 
@@ -20,20 +27,50 @@ At first glace, it appears to describes the process of placing and confirming a 
 4. After the, merge has take place, the order will be closed.
 5. Once the order is close, the activity is ended.
 
+<div style="page-break-after: always;"></div>
+
 ## Exercise 1.2
 
 ![ex1_2-diagram](1_2.png)
 
-## Exercise 1.3
+<div style="page-break-after: always;"></div>
 
+## Exercise 1.3
+### a)
 ![ex1_3-diagram](1_3.png)
 
-### Improved Model
+<div style="page-break-after: always;"></div>
 
+### b)
+
+<div style="text-align: justify">
 The first step that can be improved about the present activity model, is to cut the "middle man" the accreditation of the doctor, by enabling the doctor's information to be directly sent to the Order.
 
 The second improvement it to discard the paper methods and replace them by digital ones. It is time consuming to send the declarations in physical format, when it could be digitally signed and send by email.
 
 Bellow there is a modulation of the improved activity flow.
+</div>
 
 ![ex1_3-improved-diagram](1_3_improved.png)
+
+<div style="page-break-after: always;"></div>
+
+### c)
+
+For this cost analyzes, we assume that **every verification** has to retrieve information from somewhere, and soo each one will account for **30 mins**.
+
+To add to that, taking the example of the real world, we know that passing information around multiple entities is time consuming, for that, we'll assume that every **transition of an object** between entities, **in digital format, like email**, incurs in an addition of **5 mins** to the total time of the activity.
+
+Also, since the current model has one of the **transitions via physical format**, this adds a total of 2 days, witch we'll assume as **1440 minutes**.
+
+Taking all this into account, the **total transition times** are:
+- **Current model**
+  - 1555 minutes.
+- **Improved model**
+  - 115 minutes.
+
+<div style="page-break-after: always;"></div>
+
+## Exercise 1.4
+
+![ex1_4-diagram](1_4.png)
