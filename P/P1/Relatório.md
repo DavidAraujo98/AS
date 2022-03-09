@@ -2,7 +2,7 @@
 
 ### *Grupo 601*
 
-## Exercise 1.1
+# Exercise 1.1
 
 At first glace, it appears to describes the process of placing and confirming a shipping order, and it follows the following flow:
 
@@ -20,20 +20,30 @@ At first glace, it appears to describes the process of placing and confirming a 
 4. After the, merge has take place, the order will be closed.
 5. Once the order is close, the activity is ended.
 
-## Exercise 1.2
+
+# Exercise 1.2
 
 ![ex1_2-diagram](1_2.png)
 
-## Exercise 1.3
+# Exercise 1.3
 
+## a)
 ![ex1_3-diagram](1_3.png)
 
-### Improved Model
+## b)
 
-The first step that can be improved about the present activity model, is to cut the "middle man" the accreditation of the doctor, by enabling the doctor's information to be directly sent to the Order.
+There are three main point in witch the activity flow can be improved, these are:
 
-The second improvement it to discard the paper methods and replace them by digital ones. It is time consuming to send the declarations in physical format, when it could be digitally signed and send by email.
+1. Cut the "middle man" the accreditation of the doctor, by enabling the doctor's information to be directly sent to the order.
+2. Since the ARS need to request information necessary, to validate a Clinics candidate status, to the ERS, these process of validation could be directly tasked to the ERS itself, with no need of a "middle man".
+3. The final improvement it to discard the paper methods and replace them by digital ones. It is time consuming to send the declarations in physical format, when it could be digitally signed and send by email.
 
 Bellow there is a modulation of the improved activity flow.
 
 ![ex1_3-improved-diagram](1_3_improved.png)
+
+## c)
+
+|Total times per type of operation  | Current Model | Improved Model
+|:-:|:-:|:-:|
+|Information search|                |                   |
