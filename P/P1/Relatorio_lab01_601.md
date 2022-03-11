@@ -7,7 +7,7 @@
 | Daniel Capitão | 75943 |
 | <u>David Ferreira</u> | 93444 |
 | Samuel Teixeira | 103325 |
-|  |  |
+| Filipe Costa | 77548 |
 
 ## Exercise 1.1
 
