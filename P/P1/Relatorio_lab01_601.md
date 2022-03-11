@@ -2,12 +2,12 @@
 
 ## Group - **601**
 
-|   Members                     | Mecanografic Number  | Coordinator   |
-|   :-                          |   :-:                | :-:           |
-| Daniel Capitão | 75943 |  |
-| David Ferreira | 93444 | x |
-| Samuel Teixeira | 103325 |  |
-|  |  |  |
+|   Members                     | Mecanografic Number  |
+|   :-                          |   :-:                |
+| Daniel Capitão | 75943 |
+| <u>David Ferreira</u> | 93444 |
+| Samuel Teixeira | 103325 |
+|  |  |
 
 ## Exercise 1.1
 
