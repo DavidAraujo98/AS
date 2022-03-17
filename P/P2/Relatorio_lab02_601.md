@@ -51,8 +51,6 @@ The system visually represents actors, use cases and their relationships/associa
 
 The analyses of the Diagram 1 is in a form of comparison with the one created and displayed before, assuming the one created by the team is correct, we can point out some incorrectness in the one provided in the assignment. This being said, the corrected version of the Diagram 1, will be base on the Diagram of the previous point.
 
-The **first error** is in assuming that the**MA (Assistant Doctor) actor has power over action inside** the SISO. This is not correct since the first appointment of the pacient, provided by this doctor operates outside this system.
-
 Other problem is the *Utilizar* use caso, wich is not an non option for the **CD** since this to be provided to the **MD (Dental Doctor)** in a later phase.
 
 The fact that the **Medial Softaware** actor, wich is essential for the emission of the CD, by communicating it directly to the **SISO system**, is not represented in the Diagram 1, is another incorrecteness.
