@@ -44,7 +44,7 @@ The system visually represents actors, use cases and their relationships/associa
 
 ### a)
 
-![P2-2.4a](P2-2.4a.png)
+
 
 <div style="page-break-after: always;"></div>
 
@@ -64,6 +64,8 @@ A **over specification** can also be pointed to the **included use case** *Selec
 
 The fact that an important **use case** like the **rescheduling of an new appointement** is not represented, as a **crucial piece of information relevant to the function of the overall system**, is considered to be a **major flaw**.
 
+<div style="page-break-after: always;"></div>
+
 ### c)
 
-![ex2_4-diagram]()
+![P2-2.4a](P2-2.4a.png)
