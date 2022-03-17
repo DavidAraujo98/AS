@@ -37,7 +37,27 @@
 ## Exercise 2.4
 
 ### a)
+
+![P2-2.4a](P2-2.4a.png)
+
+<div style="page-break-after: always;"></div>
+
 ### b)
+
+The analyses of the Diagram 1 is in a form of comparison with the one created and displayed before, assuming the one created by the team is correct, we can point out some incorrectness in the one provided in the assignment. This being said, the corrected version of the Diagram 1, will be base on the Diagram of the previous point.
+
+The **first error** is in assuming that the**MA (Assistant Doctor) actor has power over action inside** the SISO. This is not correct since the first appointment of the pacient, provided by this doctor operates outside this system.
+
+Other problem is the *Utilizar* use caso, wich is not an non option for the **CD** since this to be provided to the **MD (Dental Doctor)** in a later phase.
+
+The fact that the **Medial Softaware** actor, wich is essential for the emission of the CD, by communicating it directly to the **SISO system**, is not represented in the Diagram 1, is another incorrecteness.
+
+The use case of **Assinar o CD em papel** is a specification of an action and not of an intention of the actor, **wich is incorrect**.
+
+A **over specification** can also be pointed to the **included use case** *Selecionar o dente do odontograma*. This does adds no relevant information to the Diagram 1 since is specific to the operation and work of the medical specialist and not relevant to the **SISO system**.
+
+The fact that an important **use case** like the **rescheduling of an new appointement** is not represented, as a **crucial piece of information relevant to the function of the overall system**, is considered to be a **major flaw**.
+
 ### c)
 
 ![ex2_4-diagram]()
