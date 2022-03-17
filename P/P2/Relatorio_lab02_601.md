@@ -11,6 +11,12 @@
 
 ## Exercise 2.1
 
+The diagram represents a **use case** modeling that describes the functioning of a system with the purpose of **purchasing items online**.
+
+The system visually represents actors, use cases and their relationships/associations that occur throughout the narrative.
+
+**Web customers** are divided into **registered customers** and **new customers**. New customers(visitors) can only view itens and register in the system. The registration of the new customer is done by the **authentication service**, thus becoming a registered customer, allowing the viewing and purchase of items. Items and payment solutions at checkout are secured by the identity provider and duly authenticated in the system. Checkout can be done via **paypal** or **credit payment service**.
+
 <div style="page-break-after: always;"></div>
 
 ## Exercise 2.2
