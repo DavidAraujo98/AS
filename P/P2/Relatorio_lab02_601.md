@@ -37,7 +37,6 @@ The system visually represents actors, use cases and their relationships/associa
 |Fluxos alternativos:|<p>**Passo 1: Aluno não está nesta UC**</p><p>O sistema verifica que o aluno não pertence à UC e mostra uma mensagem de erro. A navegação retorna a página de entrada do utilizador. </p><p><p>**FA3a: Remoção do Trabalho**</p><p>O Aluno pode após prévio envio do trabalho remover o mesmo ao escolher apção/símbolo disponiveis para o aluno na zona de entrega da atividade.</p><p>**FA3b: Re-Envio do Trabalho**</p><p>O Aluno pode após prévio envio do trabalho re-enviar nova versão do mesmo ao escolher apção/símbolo disponiveis para o aluno na zona de entrega da atividade.</p><p>**FA3c: Cometarios.**</p><p>O Aluno pode adicionar comentários após e durante o envio do trabalho.</p>|
 |Exceções:|<p>**Ex1: Sistema de autenticação indisponível**</p><p></p><p>**Ex2: Passo 1: Aluno não está nesta UC**</p><p></p>|
 |Requisitos especiais:|<p>[Usabilidade] O campos de texto livre devem suportar texto com hipermedia, inserido com o apoio de um *widget* com opções para formatar o texto e colocar hiperligações.</p><p>[Usabilidade] A escolha de ficheiros do sistema de ficheiros deve, em alternativa, suportar *drag-and-drop* para a página.</p><p>[Desempenho] A autenticação com o IdP tem de responder em menos de 2 segs.</p>|
-
 <div style="page-break-after: always;"></div>
 
 ## Exercise 2.4
@@ -58,14 +57,15 @@ Other problem is the *Utilizar* use caso, wich is not an non option for the **CD
 
 The fact that the **Medial Softaware** actor, wich is essential for the emission of the CD, by communicating it directly to the **SISO system**, is not represented in the Diagram 1, is another incorrecteness.
 
-The use case of **Assinar o CD em papel** is a specification of an action and not of an intention of the actor, **wich is incorrect**.
+The use case of *Assinar o CD em papel* is a specification of an action and not of an intention of the actor, **wich is incorrect**.
 
-A **over specification** can also be pointed to the **included use case** *Selecionar o dente do odontograma*. This does adds no relevant information to the Diagram 1 since is specific to the operation and work of the medical specialist and not relevant to the **SISO system**.
+A **over specification** can also be pointed to the **included use case** *Selecionar o dente do odontograma*. This does adds no relevant information to the Diagram 1 since it's specific to the operation and work of the medical specialist and not relevant to the **SISO system**.
 
 The fact that an important **use case** like the **rescheduling of an new appointement** is not represented, as a **crucial piece of information relevant to the function of the overall system**, is considered to be a **major flaw**.
-
 <div style="page-break-after: always;"></div>
+
+![P2-2.4b](P2-2.4b.png)
 
 ### c)
 
-![P2-2.4a](P2-2.4a.png)
+![P2-2.4c](P2-2.4c.png)
