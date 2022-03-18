@@ -18,6 +18,16 @@ The diagram represents a **use case** modeling that describes the functioning of
 <div style="page-break-after: always;"></div>
 
 ## Exercise 2.2
+The diagram represents a **use case** modeling describing the interaction between different types of actors (users in this particular case), and the different levels of interaction that each one of this actors is capable of attaining in the Moodle system.
+
+we can represente **four** types of actors, and each is a specialization of a general type actor, **user**:
+- Students,
+- Professors,
+- Admins,
+- Visitors.
+
+Inside the system, there all multiple possibilities of interaction, the diagram only represents the ones that are relevant in a normal scenario, and does limits its representation to the biggest possible number of uses cases per actor, taking into account that since the **Admin** has full control over the system, it is unreasonable to show every single possible interaction of this actor.
+
 
 
 ![P2-2.2](P2-2.2.png)
