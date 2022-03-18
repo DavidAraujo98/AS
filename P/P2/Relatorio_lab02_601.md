@@ -1,4 +1,4 @@
-# Lab 1 - Process Modulation
+# Lab 02 - Process Modulation
 
 ## Group - **601**
 
@@ -60,7 +60,7 @@ Bellow, a list of every use case found, later implemented in the Diagram.
 
 The analyses of the Diagram 1 is in a form of comparison with the one created and displayed before, assuming the one created by the team is correct, we can point out some incorrectness in the one provided in the assignment. This being said, the corrected version of the Diagram 1, will be base on the Diagram of the previous point.
 
-Other problem is the *Utilizar* use caso, wich is not an non option for the **CD** since this to be provided to the **MD (Dental Doctor)** in a later phase.
+Other problem is the *Utilizar* use caso, wich is not an non option for the **CD** since this to be provided to the **MD (Dentist)** in a later phase.
 
 The fact that the **Medial Softaware** actor, wich is essential for the emission of the CD, by communicating it directly to the **SISO system**, is not represented in the Diagram 1, is another incorrecteness.
 
