@@ -15,20 +15,47 @@ The diagram represents a **use case** modeling that describes the functioning of
 
 **Web customers** are divided into **registered customers** and **new customers**. New customers(visitors) can only view items and register in the system. The registration of the new customer is done by the **authentication service**, thus becoming a registered customer, allowing the viewing and purchase of items. Items and payment solutions at checkout are secured by the identity provider and duly authenticated in the system. Checkout can be done via **paypal** or **credit payment service**.
 
-<div style="page-break-after: always;"></div>
-
 ## Exercise 2.2
 The diagram represents a **use case** modeling describing the interaction between different types of actors (users in this particular case), and the different levels of interaction that each one of this actors is capable of attaining in the Moodle system.
 
-we can represente **four** types of actors, and each is a specialization of a general type actor, **user**:
+We can represente **four** types of actors, and each is a specialization of a general type actor, **user**:
 - Students,
 - Professors,
 - Admins,
 - Visitors.
 
-Inside the system, there all multiple possibilities of interaction, the diagram only represents the ones that are relevant in a normal scenario, and does limits its representation to the biggest possible number of uses cases per actor, taking into account that since the **Admin** has full control over the system, it is unreasonable to show every single possible interaction of this actor.
+Inside the system, there all multiple possibilities of interaction, the diagram only represents the ones that are relevant in a normal scenario, and does limits its representation to the biggest possible number of uses cases per actor, taking into account that since the **Admin** has full control over the system, it is unreasonable to show every single possible interaction of this actor, so there is a special use case that encases all those interactions.
 
+For a **visitor**, only interactions with the **public pages**, beyond that is necessary to **login** to attain additional privileges.
 
+For the **login** interaction, besides the user actor, a **external authentication service** will interact.
+
+Once logged in, the three types of actors can, or cannot, interact in multiples use cases.
+
+The **student** actor can interact with services like:
+- Chatting,
+- Assignment delivery,
+- Adding a blog post,
+- Access content in various places, like:
+  - Dashboard,
+  - Blog,
+  - Curricular units,
+  - News feed.
+
+The **professor** actor can:
+- Chat,
+- Add a blog post,
+- Access the general content,
+- Create activities,
+- Edit content inside a curricular unit,
+
+The **admin**, of all previous interactions can only:
+- Access content.
+
+But other than that, can interact like:
+- Add or remove curricular units,
+- Edit pages,
+- And every other backstage operation inside the system.
 
 ![P2-2.2](P2-2.2.png)
 
