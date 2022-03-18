@@ -41,9 +41,20 @@ The diagram represents a **use case** modeling that describes the functioning of
 
 ### a)
 
+Bellow, a list of every use case found, later implemented in the Diagram.
 
-
-<div style="page-break-after: always;"></div>
+- **Consultation** for the Dentist Vaucher(**CD**).
+-  **Emission** of the CD.
+-  **Cancelation** of the CD.
+-  **Delivery** of the CD.
+-  **Choice of professional** by the paciente.
+-  **Schedulling of consultation**.
+-  **Consultation** with the MD.
+-  **Search of CD of pacient** by the MD.
+-  **Treatment**.
+-  **Planning of treatment and registering of diagnostics**.
+-  **Reschedulling of consultation**.
+-  **Schedulling of radiography**.
 
 ### b)
 
@@ -62,6 +73,7 @@ The fact that an important **use case** like the **rescheduling of an new appoin
 
 ![P2-2.4b](P2-2.4b.png)
 
-### c)
+<div style="page-break-after: always;"></div>
 
+### c)
 ![P2-2.4c](P2-2.4c.png)
