@@ -19,7 +19,7 @@ The diagram represents a **use case** modeling that describes the functioning of
 
 ## Exercise 2.2
 
-![ex2_2-diagram]()
+![P2-2.2](P2-2.2.png)
 
 <div style="page-break-after: always;"></div>
 
