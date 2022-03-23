@@ -25,7 +25,7 @@
 <p></p>
 <p><b>G)</b> F - Não existe uma definição para capitão de equipa no diagrama. </p>
 <p></p>
-<p><b>H)</b> V - Se Membro CC se poder definir como docente</p>
+<p><b>H)</b> V - Se Membro CC se puder definir como docente</p>
 <p></p>
 
 
