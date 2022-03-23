@@ -43,8 +43,3 @@
 ![ex1_3-diagram]()
 
 <div style="page-break-after: always;"></div>
-
-
-## Exercise 1.4
-
-![ex1_4-diagram]()
