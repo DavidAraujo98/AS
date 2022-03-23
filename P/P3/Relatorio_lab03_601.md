@@ -32,13 +32,13 @@
 
 <div style="page-break-after: always;"></div>
 
-## Exercise 1.2
+## Exercise 3.2
 
 ![ex1_2-diagram]()
 
 <div style="page-break-after: always;"></div>
 
-## Exercise 1.3
+## Exercise 3.3
 ### a)
 ![ex1_3-diagram]()
 
