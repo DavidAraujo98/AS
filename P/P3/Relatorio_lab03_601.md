@@ -11,6 +11,7 @@
 
 ## Exercise 3.1
 
+<<<<<<< HEAD
 **A)** V
 
 **B)** V
@@ -26,8 +27,6 @@
 **G)** F - Não existe uma definição para capitão de equipa no diagrama.
 
 **H)** V - Se Membro CC se poder definir como docente.
-
-
 
 <div style="page-break-after: always;"></div>
 
