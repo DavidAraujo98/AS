@@ -11,7 +11,6 @@
 
 ## Exercise 3.1
 
-<<<<<<< HEAD
 **A)** V
 
 **B)** V
@@ -32,12 +31,18 @@
 
 ## Exercise 3.2
 
-![ex1_2-diagram]()
+![ex3_2-diagram]()
 
 <div style="page-break-after: always;"></div>
 
 ## Exercise 3.3
 ### a)
-![ex1_3-diagram]()
+
+| Conceito candidato | Atributos candidatos |
+| - | - |
+| Projeto | Titulo <br> Data início <br> % Done <br> Tarefas|
+| Issue | Descrição <br> Prioridade <br> Data inicio e fim <br> % Done <br> Estado <br> Assignee <br> Watchers |
+| Equipa | Membros |
+| Membros | Nome <br> NMEC |
 
 <div style="page-break-after: always;"></div>
