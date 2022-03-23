@@ -1,15 +1,15 @@
-# Lab 1 - Process Modulation
+# Lab 03 - Modelação com Classes
 
-## Group - **601**
+## Grupo - **601**
 
-|   Members                     | Mecanografic Number  |
+|   Membros                     | Número Mecanográfico  |
 |   :-                          |   :-:                |
 | Daniel Capitão | 75943 |
 | David Ferreira | 93444 |
 | Samuel Teixeira | 103325 |
 | <u>Filipe Costa</u> | 77548 |
 
-## Exercise 3.1
+## Exercício 3.1
 
 **A)** V
 
@@ -29,13 +29,14 @@
 
 <div style="page-break-after: always;"></div>
 
-## Exercise 3.2
+## Exercício 3.2
 
 ![ex3_2-diagram]()
 
 <div style="page-break-after: always;"></div>
 
-## Exercise 3.3
+## Exercício 3.3
+
 ### a)
 
 | Conceito candidato | Atributos candidatos |
@@ -44,5 +45,11 @@
 | Issue | Descrição <br> Prioridade <br> Data inicio e fim <br> % Done <br> Estado <br> Assignee <br> Watchers |
 | Equipa | Membros |
 | Membros | Nome <br> NMEC |
+
+### b)
+
+| Categoria conceptual | Conceito identificado (domínio da gestão de projetos) |
+| - | - |
+|  |  |
 
 <div style="page-break-after: always;"></div>
