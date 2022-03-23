@@ -5,9 +5,9 @@
 |   Members                     | Mecanografic Number  |
 |   :-                          |   :-:                |
 | Daniel Capitão | 75943 |
-| <u>David Ferreira</u> | 93444 |
+| David Ferreira | 93444 |
 | Samuel Teixeira | 103325 |
-| Filipe Costa | 77548 |
+| <u>Filipe Costa</u> | 77548 |
 
 ## Exercise 3.1
 
@@ -16,11 +16,11 @@
 
 **B)** V
 
-**C)** F - A entrega/submissão é feita por uma equipa. </p>
+**C)** F - A entrega/submissão é feita por uma equipa.
 
 **D)** F - Uma submissão pode ser avaliadas por vários Membros CC e vários Membros CC podem avaliar uma submissão.
 
-**E)** F - Uma equipa pode ser composta por vários alunos, mas pode apenas pertencer a uma instituição. </p>
+**E)** F - Uma equipa pode ser composta por vários alunos, mas pode apenas pertencer a uma instituição.
 
 **F)** F - Apenas a submissão está limitada a uma linguagem.
 
