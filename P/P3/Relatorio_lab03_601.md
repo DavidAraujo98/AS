@@ -55,19 +55,16 @@
 | Categoria conceptual | Conceito identificado (domínio da gestão de projetos) |
 | - | - |
 | Transações comerciais  | Tarefa (assumindo que os recursos têm custos ) |
-| Produto ou serviço relacionado transacionado | |
-| Onde é que a transação é registada?| Projeto |
-| Papéis das pessoas ou organizações relacionadas com a transação; atores no caso de utilização | Watchers, Assignee |
-| Local da transação; ponto de serviço | Projeto, Tarefa(Issue) |
-| Eventos que merecem destaque, muitas vezes com uma hora ou lugar que precisamos de guardar| Log Time |
-| Objetos físicos | |
-| Contentores de coisas (físicas ou informação) | Equipa, Membros, Projeto |
+| Produto ou serviço relacionado transacionado | Issues, Features, ... |
+| Onde é que a transação é registada?| Cronograma de Gantt, % Done |
+| Papéis das pessoas ou organizações relacionadas com a transação; atores no caso de utilização | Assignees, Watches, Equipa |
+| Local da transação; ponto de serviço | Projeto, Equipa (assumindo a atribuição e destituição de *roles* ) |
+| Eventos que merecem destaque, muitas vezes com uma hora ou lugar que precisamos de guardar| Log Time, Data de inicio e finalização, %Done |
+| Objetos | Tarefas (issues) |
+| Contentores de coisas (físicas ou informação) | Equipa, Projeto |
 | Coisas dentro de um “contentor” | Membros, Assignee, Watchers, Tarefas(Issues) |
-| Histórico/registos contabilísticos, de trabalho, contratos, matéria jurídica | Log Time |
-| Instrumentos financeiros| |
-| Horários, manuais, documentos que são regularmente referidos para a realização| Gantt, Time Tracking, Tarefas(Issues), Log Time |
-
-<br>
+| Histórico/registos contabilísticos, de trabalho, contratos, matéria jurídica | Log Time, Data inicio e finalização |
+| Horários, manuais, documentos que são regularmente referidos para a realização| Cronograma de Gantt, Time Tracking, Tarefas(Issues), Log Time, %Done |
 
 <div style="page-break-after: always;"></div>
 
