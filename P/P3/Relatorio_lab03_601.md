@@ -43,10 +43,10 @@
 
 | Conceito candidato | Atributos candidatos |
 | - | - |
-| Projeto | Titulo <br> Data início <br> % Done <br> Tarefas|
-| Issue | Descrição <br> Prioridade <br> Data inicio e fim <br> % Done <br> Estado <br> Assignee <br> Watchers |
-| Equipa | Membros |
-| Membros | Nome <br> NMEC |
+| Projeto | Titulo <br> Data início <br> %Done <br> Tarefas (Issues)|
+| Tarefa | Descrição <br> Prioridade <br> Data inicio e fim <br> %Done <br> Estado <br> Assignee (Responsável) <br> Watchers |
+| Equipa | Nome <br> Membros |
+| Membros | ID <br> Nome <br> Role|
 
 <br>
 
