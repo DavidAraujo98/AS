@@ -50,7 +50,18 @@
 
 | Categoria conceptual | Conceito identificado (domínio da gestão de projetos) |
 | - | - |
-|  |  |
+| Transações comerciais  | Tarefa (assumindo que os recursos têm custos ) |
+| Produto ou serviço relacionado transacionado | |
+| Onde é que a transação é registada?| Projeto |
+| Papéis das pessoas ou organizações relacionadas com a transação; atores no caso de utilização | Watchers, Assignee |
+| Local da transação; ponto de serviço | Projeto, Tarefa(Issue) |
+| Eventos que merecem destaque, muitas vezes com uma hora ou lugar que precisamos de guardar| Log Time |
+| Objetos físicos | |
+| Contentores de coisas (físicas ou informação) | Equipa, Membros, Projeto |
+| Coisas dentro de um “contentor” | Membros, Assignee, Watchers, Tarefas(Issues) |
+| Histórico/registos contabilísticos, de trabalho, contratos, matéria jurídica | Log Time |
+| Instrumentos financeiros| |
+| Horários, manuais, documentos que são regularmente referidos para a realização| Gantt, Time Tracking, Tarefas(Issues), Log Time |
 
 <div style="page-break-after: always;"></div>
 
