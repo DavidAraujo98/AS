@@ -31,7 +31,7 @@
 
 ## Exercício 3.2
 
-![ex3_2-diagram]()
+![ex3_2-diagram](P3-3.2_alternative.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -51,5 +51,19 @@
 | Categoria conceptual | Conceito identificado (domínio da gestão de projetos) |
 | - | - |
 |  |  |
+
+<div style="page-break-after: always;"></div>
+
+### c)
+
+![ex3_2-diagram](P3-3.3c.png)
+
+
+<div style="page-break-after: always;"></div>
+
+### d)
+
+![ex3_2-diagram](P3-3.3d.png)
+
 
 <div style="page-break-after: always;"></div>
