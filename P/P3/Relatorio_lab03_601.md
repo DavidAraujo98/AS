@@ -58,7 +58,7 @@
 | Produto ou serviço relacionado transacionado | Issues, Features, ... |
 | Onde é que a transação é registada?| Cronograma de Gantt, % Done |
 | Papéis das pessoas ou organizações relacionadas com a transação; atores no caso de utilização | Assignees, Watches, Equipa |
-| Local da transação; ponto de serviço | Projeto, Equipa (assumindo a atribuição e destituição de *roles* ) |
+| Local da transação; ponto de serviço | Projeto |
 | Eventos que merecem destaque, muitas vezes com uma hora ou lugar que precisamos de guardar| Log Time, Data de inicio e finalização, %Done |
 | Objetos | Tarefas (issues) |
 | Contentores de coisas (físicas ou informação) | Equipa, Projeto |
