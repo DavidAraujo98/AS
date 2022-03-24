@@ -50,6 +50,8 @@
 
 <br>
 
+<div style="page-break-after: always;"></div>
+
 ### b)
 
 | Categoria conceptual | Conceito identificado (domínio da gestão de projetos) |
