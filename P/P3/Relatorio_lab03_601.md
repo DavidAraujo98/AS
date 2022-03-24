@@ -27,6 +27,8 @@
 
 **H)** V - Se Membro CC se poder definir como docente.
 
+<br>
+
 <div style="page-break-after: always;"></div>
 
 ## Exercício 3.2
@@ -46,6 +48,8 @@
 | Equipa | Membros |
 | Membros | Nome <br> NMEC |
 
+<br>
+
 ### b)
 
 | Categoria conceptual | Conceito identificado (domínio da gestão de projetos) |
@@ -62,6 +66,8 @@
 | Histórico/registos contabilísticos, de trabalho, contratos, matéria jurídica | Log Time |
 | Instrumentos financeiros| |
 | Horários, manuais, documentos que são regularmente referidos para a realização| Gantt, Time Tracking, Tarefas(Issues), Log Time |
+
+<br>
 
 <div style="page-break-after: always;"></div>
 
