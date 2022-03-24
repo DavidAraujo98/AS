@@ -46,9 +46,8 @@
 | Projeto | Titulo <br> Data início <br> %Done <br> Tarefas (Issues)|
 | Tarefa | Descrição <br> Prioridade <br> Data inicio e fim <br> %Done <br> Estado <br> Assignee (Responsável) <br> Watchers |
 | Equipa | Nome <br> Membros |
-| Membros | ID <br> Nome <br> Role|
+| Membros | ID <br> Nome|
 
-<br>
 <div style="page-break-after: always;"></div>
 
 ### b)
