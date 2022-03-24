@@ -70,7 +70,7 @@
 
 ### c)
 
-![ex3_3c-diagram](P3-3.3c.drawio.png)
+![ex3_3c-diagram](P3-3.3c_alternative.drawio.png)
 
 
 <div style="page-break-after: always;"></div>

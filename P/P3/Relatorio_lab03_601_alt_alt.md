@@ -70,14 +70,14 @@
 
 ### c)
 
-![ex3_3c-diagram](P3-3.3c.drawio.png)
+![ex3_3c-diagram](P3-3.3c_alt_alt.drawio.png)
 
 
 <div style="page-break-after: always;"></div>
 
 ### d)
 
-![ex3_3d-diagram](P3-3.3d.drawio.png)
+![ex3_3d-diagram](P3-3.3d_alt_alt.drawio.png)
 
 
 <div style="page-break-after: always;"></div>
