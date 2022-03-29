@@ -46,7 +46,9 @@
 | Projeto | Titulo <br> Data início <br> %Done <br> Tarefas (Issues)|
 | Tarefa | Descrição <br> Prioridade <br> Data inicio e fim <br> %Done <br> Estado <br> Assignee (Responsável) <br> Watchers |
 | Equipa | Nome <br> Membros |
-| Membros | ID <br> Nome|
+| Membros | ID <br> Nome <br> Role|
+
+<br>
 
 <div style="page-break-after: always;"></div>
 
@@ -70,14 +72,14 @@
 
 ### c)
 
-![ex3_3c-diagram](P3-3.3c.drawio.png)
+![ex3_3c-diagram](P3-3.3c_alt_alt.drawio.png)
 
 
 <div style="page-break-after: always;"></div>
 
 ### d)
 
-![ex3_3d-diagram](P3-3.3d.drawio.png)
+![ex3_3d-diagram](P3-3.3d_alt_alt.drawio.png)
 
 
 <div style="page-break-after: always;"></div>

@@ -25,7 +25,7 @@
 
 **G)** F - Não existe uma definição para capitão de equipa no diagrama.
 
-**H)** V - Se Membro CC se poder definir como docente.
+**H)** V - Se Membro CC se puder definir como docente.
 
 <br>
 
@@ -70,7 +70,7 @@
 
 ### c)
 
-![ex3_3c-diagram](P3-3.3c.drawio.png)
+![ex3_3c-diagram](P3-3.3c_alternative.drawio.png)
 
 
 <div style="page-break-after: always;"></div>
