@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T19:04:35.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Safari/537.36" etag="SM5w_xIVeXbbsnAS0o3d" version="17.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-30T19:06:57.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Safari/537.36" etag="wn0rB9U0PjqgPx0W_oa2" version="17.3.0" type="github" pages="2">
   <diagram id="JWzHGEEmHOpxPtbiXyBe" name="4.2">
-    <mxGraphModel dx="967" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="387" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,14 +21,14 @@
             <mxPoint x="3" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoTEVqlD-ZGMPwPlBJG8-2" value="Estudante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="SoTEVqlD-ZGMPwPlBJG8-1" vertex="1">
-          <mxGeometry x="52" y="36" width="22" height="39" as="geometry" />
+        <mxCell id="SoTEVqlD-ZGMPwPlBJG8-2" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="SoTEVqlD-ZGMPwPlBJG8-1" vertex="1">
+          <mxGeometry x="52" y="37" width="22" height="39" as="geometry" />
         </mxCell>
         <mxCell id="SoTEVqlD-ZGMPwPlBJG8-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="SoTEVqlD-ZGMPwPlBJG8-1" source="SoTEVqlD-ZGMPwPlBJG8-3" target="SoTEVqlD-ZGMPwPlBJG8-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SoTEVqlD-ZGMPwPlBJG8-3" value="elearning.ua.pt" style="rounded=0;whiteSpace=wrap;html=1;" parent="SoTEVqlD-ZGMPwPlBJG8-1" vertex="1">
-          <mxGeometry x="160.01" y="36" width="100" height="40" as="geometry" />
+          <mxGeometry x="159.98999999999998" y="37" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoTEVqlD-ZGMPwPlBJG8-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="SoTEVqlD-ZGMPwPlBJG8-1" source="SoTEVqlD-ZGMPwPlBJG8-4" target="SoTEVqlD-ZGMPwPlBJG8-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -274,6 +274,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="235" y="720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N_ucVqVdbEi61Vxu9FL0-36" value="AS-EX 4.2&lt;br&gt;Grupo 601 (DF, DC, ST, FC)&lt;br&gt;v2022/03/30" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=11;verticalAlign=top;align=left;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="25" y="750" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
