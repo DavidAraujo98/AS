@@ -29,7 +29,7 @@ Após estas fase, o *Payment Service* irá finalmente responde a *IOS Applicatio
 
 ## Exercício 4.2
 
-![ex4_2-diagram]()
+![P4-4.2](P4-4.2.drawio.png)
 
 <div style="page-break-after: always;"></div>
 
