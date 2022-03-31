@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T22:22:19.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="h3n18p4DmBBlN01lOpll" version="17.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-31T22:24:58.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="sXIWOTPqaqqUtLyuKETk" version="17.4.0" type="github" pages="5">
   <diagram id="JWzHGEEmHOpxPtbiXyBe" name="4.2">
     <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -469,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J4kpZpN4KWZWXniGxYUH" name="4.3a)">
-    <mxGraphModel dx="1422" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="euifeGbPDPr2ujzqLKZH-0" />
         <mxCell id="euifeGbPDPr2ujzqLKZH-1" parent="euifeGbPDPr2ujzqLKZH-0" />
@@ -848,7 +848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q5xyPo9IYTetc14Yy8iN" name="4.3a)_alternative ">
-    <mxGraphModel dx="1689" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1181,6 +1181,9 @@
         </mxCell>
         <mxCell id="dJ1RPKXm6JqfVN6oGj3c-21" value="Get Air Quality" style="swimlane;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-210" y="40" width="1400" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="E-gyuBNsiE0x_QoVY08F-1" value="AS-EX 4.3 a)&lt;br&gt;Grupo 601 (DF, DC, ST, FC)&lt;br&gt;v2022/03/30" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=11;verticalAlign=top;align=left;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="820" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
