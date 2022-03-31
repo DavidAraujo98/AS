@@ -37,14 +37,14 @@ Após estas fase, o *Payment Service* irá finalmente responde a *IOS Applicatio
 
 ### a)
 
-![ex4_3a-diagram]()
+![P4-4.3_a)](P4-4.3a.drawio.png)
 
 ### b)
 
-![ex4_3b-diagram]()
+![P4-4.3_b)](P4-4.3b.drawio.png)
 
 <div style="page-break-after: always;"></div>
 
 ## Exercício 4.4
 
-![ex4_3b-diagram]()
+![P4-4.4](P4-4.4.drawio.png)
