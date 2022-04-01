@@ -37,7 +37,7 @@ Após estas fase, o *Payment Service* irá finalmente responde a *IOS Applicatio
 
 ### a)
 
-![P4-4.3_a)](P4-4.3a.drawio.png)
+![P4-4.3_a)](P4-4.3a_alternative.drawio.png)
 
 ### b)
 
