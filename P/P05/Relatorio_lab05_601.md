@@ -23,7 +23,7 @@ The second interface, *DisplayConverter*, seems to make this blog post accessibl
 
 ### b)
 
-The Apache Log4j component is a Java-based utility for logging. What is does in a "plugin" type utility for a external service to use for authentication into the system that ir plugs in to, this is practical in the sense that the developer does not need to create a new authentication scheme from zero and just implement this module to the project.
+The Apache Log4j component is a Java-based utility for logging. What is does in a "plugin" type utility for an external service to use for user authentication into the system, this is practical in the sense that the developer does not need to create a new authentication scheme from zero and just implements this module to the project.
 
 ### c)
 
@@ -32,7 +32,6 @@ The Apache Log4j component is a Java-based utility for logging. What is does in 
 https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
 implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.17.2'
 ````
-
 
 <div style="page-break-after: always;"></div>
 
