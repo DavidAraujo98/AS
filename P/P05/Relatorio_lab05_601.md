@@ -37,10 +37,33 @@ implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '
 
 ## Exercício 5.2
 
-![P5-5.2](P5-5.2.drawio.png)
+### a)
+
+Upon researching we found a convincing example in [Packt Hub](https://hub.packtpub.com/what-is-multi-layered-software-architecture/) of a possible e-commerce application that implements a multi layered architecture, and we will base our approach on that.
+
+Taking the example given, we can apply it for e-commerce website like [Worten.pt](https://www.worten.pt/) assuming it works in the same manner.
+
+We assume a three layered structure: GUI, Domain and Foundation.
+
+- **GUI**
+    
+    When looking at Worten's website it is obviously composed of modules of HTML, CSS and Javascript. When we analyze more carefully the GUI we can see that ir also integrates external services's scripts, namely from: Google Analytics, Vizury, Cookiebot, richrelevance.
+
+- **Domain**
+
+    Because Worten is a "marketplace type" website, that no only sells it's own products but it acts as a middle man for other resellers. For that the **Domain** need be able to handle Sales (self and for resellers), pricing, inventory, API for resellers, payments, ranking system, among other capabilities.
+
+- **Foundation**
+
+    This includes the framework the website is built upon (maybe PHP, Vue, React, or others), the databases (user, products, page contents, ...), webservices, and any other systems.
 
 <div style="page-break-after: always;"></div>
 
+### b)
+
+![P5-5.2)](P5-5.2.drawio.png)
+
+<div style="page-break-after: always;"></div>
 ## Exercício 5.3
 
 ### a)
