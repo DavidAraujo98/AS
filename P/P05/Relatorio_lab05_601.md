@@ -25,6 +25,8 @@ The second interface, *DisplayConverter*, seems to make this blog post accessibl
 
 The Apache Log4j component is a Java-based utility for logging. What is does in a "plugin" type utility for an external service to use for user authentication into the system, this is practical in the sense that the developer does not need to create a new authentication scheme from zero and just implements this module to the project.
 
+<div style="page-break-after: always;"></div>
+
 ### c)
 
 ```h
@@ -33,10 +35,7 @@ https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
 implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.17.2'
 ````
 
-<div style="page-break-after: always;"></div>
-
 ## Exercício 5.2
-
 ### a)
 
 Upon researching we found a convincing example in [Packt Hub](https://hub.packtpub.com/what-is-multi-layered-software-architecture/) of a possible e-commerce application that implements a multi layered architecture, and we will base our approach on that.
@@ -64,11 +63,14 @@ We assume a three layered structure: GUI, Domain and Foundation.
 ![P5-5.2)](P5-5.2.drawio.png)
 
 <div style="page-break-after: always;"></div>
+
 ## Exercício 5.3
 
 ### a)
 
 ![P5-5.3_a)](P5-5.3a.drawio.png)
+
+<div style="page-break-after: always;"></div>
 
 ### b)
 
